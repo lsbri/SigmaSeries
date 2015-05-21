@@ -1,0 +1,11 @@
+D:\Downloads (Browser)\LeagueSharp-Public-master\LeagueSharp-Public-master\SigmaSeries\bin\Release\SigmaSeries.exe.config
+D:\Downloads (Browser)\LeagueSharp-Public-master\LeagueSharp-Public-master\SigmaSeries\bin\Release\SigmaSeries.exe
+D:\Downloads (Browser)\LeagueSharp-Public-master\LeagueSharp-Public-master\SigmaSeries\bin\Release\SigmaSeries.pdb
+D:\Downloads (Browser)\LeagueSharp-Public-master\LeagueSharp-Public-master\SigmaSeries\bin\Release\clipper_library.dll
+D:\Downloads (Browser)\LeagueSharp-Public-master\LeagueSharp-Public-master\SigmaSeries\bin\Release\LeagueSharp.Common.dll
+D:\Downloads (Browser)\LeagueSharp-Public-master\LeagueSharp-Public-master\SigmaSeries\bin\Release\LeagueSharp.dll
+D:\Downloads (Browser)\LeagueSharp-Public-master\LeagueSharp-Public-master\SigmaSeries\bin\Release\SharpDX.Direct3D9.dll
+D:\Downloads (Browser)\LeagueSharp-Public-master\LeagueSharp-Public-master\SigmaSeries\bin\Release\SharpDX.dll
+D:\Downloads (Browser)\LeagueSharp-Public-master\LeagueSharp-Public-master\SigmaSeries\bin\Release\LeagueSharp.Sandbox.dll
+D:\Downloads (Browser)\LeagueSharp-Public-master\LeagueSharp-Public-master\SigmaSeries\obj\Debug\SigmaSeries.exe
+D:\Downloads (Browser)\LeagueSharp-Public-master\LeagueSharp-Public-master\SigmaSeries\obj\Debug\SigmaSeries.pdb
